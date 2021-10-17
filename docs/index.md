@@ -1,4 +1,5 @@
 title: About Us
+description: Minicompany information.
 
  ![](https://fontmeme.com/permalink/211008/951b28e1d4901ab1e0d36d393ea5738f.png)
 
