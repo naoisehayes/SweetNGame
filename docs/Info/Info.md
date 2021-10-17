@@ -26,5 +26,4 @@ if (currentTheme) {
                 document.documentElement.setAttribute("data-theme", "dark");
         }
 }
-
 ```
