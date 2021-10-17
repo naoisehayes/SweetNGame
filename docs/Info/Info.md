@@ -1,4 +1,5 @@
-title: Website and Company Info
+title: Website and Info
+description: Information on the website.
 
 ![](https://fontmeme.com/permalink/211008/eefe45107b1d0bb6ef25810f3cbb3e4e.png)
 
