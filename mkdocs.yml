@@ -1,0 +1,16 @@
+site_name: SweetNGame
+site_url: https://sweetngame.com
+
+repo_url: "https://github.com/naoisehayes/naoisehayes.github.io"
+repo_name: "GitHub"
+edit_uri: "/"
+
+
+markdown_extensions:
+  - attr_list
+theme:
+    name: null
+    custom_dir: 'custom_theme/'
+    highlightjs: true
+    static_templates:
+            - 404.html
