@@ -1,4 +1,5 @@
 title: Products
+description: Products we have for sale.
 
 ![](https://fontmeme.com/permalink/211008/f09b2ca814ef60f36293fb801009c0c2.png)
 
