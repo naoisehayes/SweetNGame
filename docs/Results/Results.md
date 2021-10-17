@@ -1,4 +1,5 @@
 title: Game Results
+description: Results from the game tournament.
 
 ![](https://fontmeme.com/permalink/211008/155aaebc2dec9352abec07beeb5c772c.png)
 
