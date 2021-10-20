@@ -150,6 +150,11 @@ input[type="search"] {
 #sidebar li:not(:last-child) {
    margin-bottom: 5px;
 }
+
+#sidebar {
+	overscroll-behavior: contain;
+}
+
 #sidebar li > a {
     border-radius: 5px;
     display: block;
