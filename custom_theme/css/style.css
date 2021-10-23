@@ -37,7 +37,7 @@ body {
 
 html {
     scroll-behavior: smooth; /* smooooth scroll */
-    -webkit-overflow-scrolling: touch; /*ios smooth*/
+    -webkit-overflow-scrolling: touch; /* smooth ios */
 }
 
 *, html {
@@ -122,6 +122,17 @@ div.inline {
 #current {
     cursor: pointer;
 }
+li.nested {
+	padding-left: 14px;
+}
+/*
+li.nested p.navtitle {
+	color: #d5e8f2;
+}
+*/
+li.nested a.navtitle {
+	color: #828a97 !important;
+}
 
 
 .input-wrap {
@@ -141,6 +152,9 @@ input[type="search"] {
     font-size: 14px;
     line-height: 1.5;
 }
+#sidebar {
+	overscroll-behavior: contain;
+}
 #sidebar input::placeholder {
     color: gray;
 }
@@ -150,11 +164,6 @@ input[type="search"] {
 #sidebar li:not(:last-child) {
    margin-bottom: 5px;
 }
-
-#sidebar {
-	overscroll-behavior: contain;
-}
-
 #sidebar li > a {
     border-radius: 5px;
     display: block;
@@ -170,6 +179,9 @@ input[type="search"] {
 #sidebar a.active {
     color: white;
     background-color: var(--theme-color);
+}
+#sidebar {
+	overflow-y: scroll;
 }
 img#expand_icon {
     max-height: 1.2em;
@@ -246,6 +258,7 @@ div.search {
 }
 p.navtitle {
     padding-bottom: 3px;
+	color: #fff;
 }
 ul.toc {
     margin-left: 1.5rem;
@@ -282,9 +295,6 @@ table {
 table td {
   border: 2px solid grey;
   padding: 0.2em 0.8em;
-}
-table td {
-	width: 40%;
 }
 
 table tr:first-child td {
@@ -424,17 +434,18 @@ footer {
 }
 
 ::-webkit-scrollbar {
-	width: 18px;
+	width: 5px;
+	height: 5px;
 }
 
 ::-webkit-scrollbar-track {
-  background-color: transparent;
+  background: hsla(113, 0%, 50%, 0.1);
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #808080;
-  border-radius: 18px;
-  border: 7px solid transparent;
+  background: hsla(113, 0%, 50%, 0.3);
+  border-radius: 50vw;
+/*  border: 6px solid transparent;*/
   background-clip: content-box;
 }
 
@@ -494,3 +505,20 @@ img {
   }
 }
 */
+
+/* what if somebody wants to print idk */
+@media print {
+	html {
+		color: #000 !important;
+	}
+
+	.sidebar, #sidebar-toggle, #darkmodetoggle{
+		display: none !important;
+	}
+	#content {
+		margin-left: 0 !important;
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+
+}
