@@ -1,3 +1,4 @@
-user-agent: *
+User-agent: *
+Allow: /
 
-sitemap: sweetngame.com/sitemap.xml
+Sitemap: sweetngame.com/sitemap.xml
