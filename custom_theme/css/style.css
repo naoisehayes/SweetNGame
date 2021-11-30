@@ -388,6 +388,8 @@ a {
     color: #fff;
 }
 
+img[alt=small] { width: 200px; }
+
 #content {
     padding: 70px;
 }
