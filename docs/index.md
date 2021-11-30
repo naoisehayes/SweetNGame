@@ -11,6 +11,7 @@ We founded SweetnGame with one goal in mind: providing a fun, simple and smart s
 We hope to host video game tournaments with games including [Mario Kart (WII)](https://en.wikipedia.org/wiki/Mario_Kart_Wii) and [FIFA](https://www.ea.com/games/fifa).
 
 Entries will be limited and price is €1.
+
 **First tournament will be Thursday at 1:45 in L1/5**
 
 | Placement | Prize |
