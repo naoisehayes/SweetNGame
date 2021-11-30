@@ -12,6 +12,9 @@ description: Products we have for sale.
 **Giant Cola - €0.25**
 ![small](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-cola-bottles-116-1000x1000.jpg)
 
+**Giant Strawberrys - €0.25**
+![small](https://ik.imagekit.io/pimberly/595e406f0f15f30010780448/tr:w-1000,h-1000,cm-pad_resize/6f465127/611ce0a9423ec074d00001e4/HB92617_01.jpg?product_name=Haribo-Giant-Strawbs-100-Sweet-Drum-9547.jpg)
+
 **Gummy Fish - €0.12**
 ![small](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-freaky-fish-112-1000x1000.jpg)
 
@@ -29,6 +32,6 @@ description: Products we have for sale.
 ---
 ## Cans
 
-**CocaCola 330ml - €1.00
+**CocaCola 330ml - €1.00**
 ![small](https://media.istockphoto.com/photos/classic-cocacola-can-picture-id465133878?k=20&m=465133878&s=612x612&w=0&h=vgcvEz4ts5WZQOhKMaKon8mIQVbr20-JhP7DKgo_wD0=)
 ---
