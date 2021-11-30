@@ -35,7 +35,7 @@ description: Products we have for sale.
 
 ---
 
-## Lolipop
+## Lolipops
 
 **Lolipop - €0.50**
 
