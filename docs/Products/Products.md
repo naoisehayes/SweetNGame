@@ -3,7 +3,6 @@ description: Products we have for sale.
 
 ![](https://fontmeme.com/permalink/211008/f09b2ca814ef60f36293fb801009c0c2.png)
 
----
 ## Jellies
 
 **Gummy Snake - €0.50**
@@ -35,18 +34,23 @@ description: Products we have for sale.
 ![small](https://www.planetcandy.ie/image/cache/data/Jellies/Haribo%20Jelly%20Babies-500x500.png)
 
 ---
+
 ## Lolipop
 
 **Lolipop - €0.50**
 
 ![small](https://www.planetcandy.ie/image/cache/catalog/Lollipops/caffreys-natural-pop-200-pieces-800x800.jpg)
+
 ---
+
 ## Cans
 
 **CocaCola 330ml - €1.00**
 
 ![small](https://media.istockphoto.com/photos/classic-cocacola-can-picture-id465133878?k=20&m=465133878&s=612x612&w=0&h=vgcvEz4ts5WZQOhKMaKon8mIQVbr20-JhP7DKgo_wD0=)
+
 ---
+
 ## Crisps
 
 **Sour Cream & Onion Pringles - €2.00**
