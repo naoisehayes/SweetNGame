@@ -13,8 +13,8 @@ We hope to host video game tournaments with games including [Mario Kart (WII)](h
 Entries will be limited and price is €1.
 **First tournament will be Thursday at 1:45 in L1/5**
 
-| | |
-|---|---|---|
-|1st Place|Pick n' mix bag|
-|2nd Place|Cola Bottle box|
-|3rd Place|One lolipop|
+| Placement | Prize |
+| --- | --- | --- |
+| 1st Place | Pick n' mix bag |
+| 2nd Place | Cola Bottle box |
+| 3rd Place | One lolipop |
