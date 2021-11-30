@@ -5,20 +5,13 @@ description: Products we have for sale.
 
 ---
 
-# Stickers
-**Large: €2 for 5**
+## Gummy Fish - €0.50
+![](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-freaky-fish-112-1000x1000.jpg)
 
-**Small: €2 for 10**
+## Gummy Snake - €0.50
+![](https://cdn3.evostore.io/productimages/vow_premium/l/hb90279.jpg)
 
-![](https://i.etsystatic.com/7912946/r/il/9df4b4/2547874119/il_570xN.2547874119_8119.jpg)
-
----
-
-# Sweets
-**Large bag: €3**
-
-**Small bag: €1.50**
-
-![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/lots-of-sweets-garry-gay.jpg)
+## Jelly Baby - €0.04
+![](https://www.planetcandy.ie/image/cache/data/Jellies/Haribo%20Jelly%20Babies-500x500.png)
 
 ---
