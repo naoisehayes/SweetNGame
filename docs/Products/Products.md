@@ -18,6 +18,9 @@ description: Products we have for sale.
 **Gummy Fish - €0.12**
 ![small](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-freaky-fish-112-1000x1000.jpg)
 
+**Cola Bottle - €0.06**
+![small](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-happy-cola-300-piece-tub-sweetco-600x315w.jpg)
+
 **Fruity Frogs  - €0.06**
 ![small](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-fruity-frogs-960g-sweet-tub-736-1000x1000.jpg)
 
@@ -35,3 +38,10 @@ description: Products we have for sale.
 **CocaCola 330ml - €1.00**
 ![small](https://media.istockphoto.com/photos/classic-cocacola-can-picture-id465133878?k=20&m=465133878&s=612x612&w=0&h=vgcvEz4ts5WZQOhKMaKon8mIQVbr20-JhP7DKgo_wD0=)
 ---
+## Crisps
+
+**Sour Cream & Onion Pringles - €2.00**
+![small](http://images.kglobalservices.com/www.pringles.com_ae_en/en_ae/product/product_3495370/prod_img-3495439_pringles_sourcream_40g_en.jpg)
+
+**Ready Salted Pringles - €2.00**
+![small](https://turnerprice.gumlet.io/media/catalog/product/cache/266be06552e40de495ca8a0ecf632bea/7/9/791b6929b26e0fe7d81e1aa552258a28.jpg)
