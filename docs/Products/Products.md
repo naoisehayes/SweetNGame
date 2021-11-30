@@ -9,7 +9,7 @@ description: Products we have for sale.
 ![](https://www.sweetco.ie/image/cache/catalog/sweetco/product/haribo/haribo-freaky-fish-112-1000x1000.jpg)
 
 ## Gummy Snake - €0.50
-![](https://cdn3.evostore.io/productimages/vow_premium/l/hb90279.jpg)
+![](https://ptpimg.me/q1vqkl.jpg)
 
 ## Jelly Baby - €0.04
 ![](https://www.planetcandy.ie/image/cache/data/Jellies/Haribo%20Jelly%20Babies-500x500.png)
