@@ -3,6 +3,7 @@ description: Products we have for sale.
 
 ![](https://fontmeme.com/permalink/211008/f09b2ca814ef60f36293fb801009c0c2.png)
 
+---
 ## Jellies
 
 **Gummy Snake - €0.50**
@@ -35,7 +36,7 @@ description: Products we have for sale.
 
 ---
 
-## Lolipops
+## Lolipop
 
 **Lolipop - €0.50**
 
