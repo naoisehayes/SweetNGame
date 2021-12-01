@@ -6,7 +6,9 @@ description: Products we have for sale.
 ---
 ## Jellies
 
-**Gummy Snake - €0.50**
+**Mix Box - €3.00**
+
+**Gummy Snake - €0.40**
 
 ![small](https://ptpimg.me/q1vqkl.jpg)
 
@@ -38,7 +40,7 @@ description: Products we have for sale.
 
 ## Lolipop
 
-**Lolipop - €0.50**
+**Lolipop - €0.25**
 
 ![small](https://www.planetcandy.ie/image/cache/catalog/Lollipops/caffreys-natural-pop-200-pieces-800x800.jpg)
 
